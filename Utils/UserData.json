@@ -1,0 +1,21 @@
+{
+  "name": "santhosh",
+  "personal_number": "8179255262",
+  "application": "AMS BODS",
+  "supervisor": "Rudraksh",
+
+  "email": "santhosh.panakanti@bhf.com",
+  "password": "sant123",
+  "tasklist": [
+    {
+      "task_number": 1,
+      "task_name": "Incident Resolution",
+      "category": "service operation",
+      "efforts_spent": 9,
+      "priority": "High",
+      "creation_date": "25-02-2023",
+      "closing_dtae": "26-02-2023",
+      "updated_timestamp": "27-02-2023"
+    }
+  ]
+}
